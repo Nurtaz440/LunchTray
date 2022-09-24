@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "com.example.lunchtray.app-mergeDebugResources-46:/layout/fragment_accompaniment_menu.xml",
+        "source": "com.example.lunchtray.app-main-49:/layout/fragment_accompaniment_menu.xml"
+    },
+    {
+        "merged": "com.example.lunchtray.app-mergeDebugResources-46:/layout/fragment_side_menu.xml",
+        "source": "com.example.lunchtray.app-main-49:/layout/fragment_side_menu.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-mergeDebugResources-46:\\layout\\fragment_entree_menu.xml",
+        "source": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-main-49:\\layout\\fragment_entree_menu.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-mergeDebugResources-46:\\layout\\fragment_accompaniment_menu.xml",
+        "source": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-main-49:\\layout\\fragment_accompaniment_menu.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-mergeDebugResources-46:\\layout\\fragment_checkout.xml",
+        "source": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-main-49:\\layout\\fragment_checkout.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-mergeDebugResources-46:\\layout\\fragment_start_order.xml",
+        "source": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-main-49:\\layout\\fragment_start_order.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-mergeDebugResources-46:\\layout\\fragment_side_menu.xml",
+        "source": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-main-49:\\layout\\fragment_side_menu.xml"
+    },
+    {
+        "merged": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Gradle\\gradle-7.5-all\\gradle-7.5\\daemon\\7.5\\com.example.lunchtray.app-main-49:\\layout\\activity_main.xml"
+    }
+]
